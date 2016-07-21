@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Floating Action Button</string>
+    <string name="about">About</string>
+    <string name="about_body"><![CDATA[
+        Floating Action Button, a library by <a href="https://www.youtube.com/channel/UCZ00VgbuL3218mXA0_drptg">Delaroy Studios</a>.<br/>
+        <a href=\'https://github.com/delaroy/AndroidFloatingActionButton\'>https://github.com/delaroy/AndroidFloatingActionButton</a>
+    ]]></string>
+</resources>
